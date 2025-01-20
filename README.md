@@ -63,7 +63,7 @@ I'm a **Full Stack Developer** and **Problem Solver** with a knack for creating 
 - Implemented backend flows using **Node.js**, **Express**, and **MongoDB** with RESTful APIs and MVC architecture.  
 - Optimized backend post management, reducing processing time by 30%.  
 - Contributed to **LinkIPU documentation**, boosting team productivity by 15%.  
-- Developed the **official SDC website** using **React.js**, improving UI and performance: [Visit Website](https://sdc.ggsipu.ac.in).  
+- Developed the **official SDC website** using **React.js**, improving UI and performance: [https://sdc.ggsipu.ac.in](https://sdc.ggsipu.ac.in).  
 
 ---
 
